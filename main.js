@@ -25,14 +25,16 @@ function flip(event){
     "Cómo se dice en español: Å LAGE - KAN - KUNNE - TRENGE - ØNSKER - ÅPNE?", "¿Cómo se dice en español: Å GÅ (WALK) - SØKE PÅ - LUKKE - LÅSE - BEGYNNE?", "¿Cómo se dice en español: Å KJØPE - KJØRE - VITE - KJENNE - SPØR - SOVE ?",
     "¿Cómo se dice en español: Å FINNE - FORSTÅ - SKRIVE - HØRE?", " ¿Cómo se dice en español: Å TENKE - LESE - SE PÅ?", "¿Cómo se dice en español: Å MISTE - SPILLE - GÅ UT - HOPPE - JOBBE - KOMME", "¿Cómo se dice en español:Å TA MED - FØLE SEG - SETE NED - BETALE?",
     "¿Cómo se dice: unos autos o unas autos?¿Por qué?", "¿Cómo se dice: las mesas o las mesases?¿Por qué", "¿Cómo se dice: una pizza o unas pizzas>?¿Por qué?",
-    "¿Cómo se dice: Yo soy en Noruega o Yo estoy en Noruega?", "¿Cómo se dice: Yo soy de Noruega o Yo estoy de Noruega?", "¿Cómo se dice: Det gamle og grønne bordet en español?", "¿Cómo se dice Hvor er det toalletet?", "¿Cómo se dice Det er (or There is/There are en inglés) en español?",
+    "¿Cómo se dice: Yo soy en Noruega o Yo estoy en Noruega?", "¿Cómo se dice: Yo soy de Noruega o Yo estoy de Noruega?", "¿Cómo se dice: Det gamle og grønne bordet en español?", "¿Cómo se dice Hvor er toalletet?", "¿Cómo se dice Det er (or There is/There are en inglés) en español?",
     "Cómo se dice Det er mange fotballkamper i dag en español?", "¿Cómo se dice Fotballspiller en español?", "¿Cómo se conjuga Å ha spist en español para TODOS los pronombres?", "Cómo se dice Sommertur en español?", "¿Cómo se dice en español De intelligente, modige og glade jentene?", "¿Cómo se dice en español De intelligente, modige og glade guttene?",
     "Cómo se dice en español Din morsmor y Morsmoren din?", "¿Cómo se conjuga el verbo SER en presente?", "¿Cómo se conjuga para todos los pronombres Å må spise?", "¿Cómo se conjuga el presente de Å må gå hjem?", "¿Cómo se conjuga el presente de Å må kjøpe nye skoer?",
     "¿Cómo se conjuga el presente de Å må lage mat?", "¿Cómo se conjuga el presente de Å må ta bussen?", "¿Cómo se conjuga el presente de Skal gå hjem snart?", "¿Cómo se conjuga el presente de Skal legge meg tidlig i dag?", "Cómo se dicen los números 21, 31, 41 y 51?", 
     "¿Cómo se conjuga el presente de Skal spille mye Playstation denne helga?", "¿Cómo se dice Mobiltelefonen?", "¿Por qué Una casa grande está correcto?", "¿Es correcto decir Hay muchas agua en el río?", "Cuál es correcto: Juego tennis a las 6, o Juego tennis las 6?", 
-    "Cuál es correcto: Juego tennis a las 6, o Juego tennis las 6?", "Cuál es correcto: Estudio Norsk a las 9, o Estudio Norsk las 6?", "Cuál es correcto: Ceno a las 5, o Ceno las 5?", "¿Cómo se conjuga Å HA DRØMT?", "¿Cómo se conjuga Å HA DANSET?", "¿Cómo se conjuga Å HA GÅTT?",
+    "Cuál es correcto: Juego tennis a las 6, o Juego tennis las 6?", "Cuál es correcto: Estudio Norsk a las 9, o Estudio Norsk las 9?", "Cuál es correcto: Ceno a las 5, o Ceno las 5?", "¿Cómo se conjuga Å HA DRØMT?", "¿Cómo se conjuga Å HA DANSET?", "¿Cómo se conjuga Å HA GÅTT?",
     "¿Cómo se conjuga Å HA TATT?", "¿Cómo se dice en español GI MATEN TIL MEG?", "¿Cómo se dice en español GI MATEN TIL HÅVARD?", "En español hay UN verbo para Å GÅ-DRA, ¿Cuál es?",
     "En español hay un verbo para Å LAGE-GJØRE, ¿Cuál es?", "¿Cómo se dice en español SI DETTE TIL SIGRID?", "Cuéntame tres lugares que quieres visitar en tu vida", "¿Cómo se dice FORDI en español?", "¿Cuál es tu clase favorita? ¿Por qué?", "¿Cuál es la diferencia entre POR QUÉ Y PORQUE?" ];
+    
+    
     var i = arr.length-1, j, temp;
     while(i > 0, i--){
         j = Math.floor(Math.random() * (arr.length));
