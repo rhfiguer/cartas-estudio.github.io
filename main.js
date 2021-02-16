@@ -24,7 +24,7 @@ function flip(event){
     "Puedes conjugar (å bøye) el presente del verbo TENER?", "Puedes conjugar (å bøye) el presente del verbo HACER?", "Cómo se dice en español: Å SETTE - TAR - GI - GÅ (GO) - SI?", 
     "Cómo se dice en español: Å LAGE - KAN - KUNNE - TRENGE - ØNSKER - ÅPNE?", "¿Cómo se dice en español: Å GÅ (WALK) - SØKE PÅ - LUKKE - LÅSE - BEGYNNE?", "¿Cómo se dice en español: Å KJØPE - KJØRE - VITE - KJENNE - SPØR - SOVE ?",
     "¿Cómo se dice en español: Å FINNE - FORSTÅ - SKRIVE - HØRE?", " ¿Cómo se dice en español: Å TENKE - LESE - SE PÅ?", "¿Cómo se dice en español: Å MISTE - SPILLE - GÅ UT - HOPPE - JOBBE - KOMME", "¿Cómo se dice en español:Å TA MED - FØLE SEG - SETE NED - BETALE?",
-    "¿Cómo se dice de forma correcta: 'unos autos' o 'unas autos'?¿Por qué?", "¿Cómo se dice de forma correcta: 'las mesas' o 'las mesases'?¿Por qué?", "¿Cómo se dice de forma correcta: 'una pizza' o 'unas pizzas'>?¿Por qué?"];
+    "¿Cómo se dice: unos autos o unas autos?", "¿Cómo se dice: las mesas o las mesases?", "¿Cómo se dice: una pizza o unas pizzas>?"];
     var i = arr.length-1, j, temp;
     while(i > 0, i--){
         j = Math.floor(Math.random() * (arr.length));
